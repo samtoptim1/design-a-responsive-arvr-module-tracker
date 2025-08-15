@@ -1,2 +1,19 @@
-# design-a-responsive-arvr-module-tracker
-A responsive AR/VR module with a tracker feature.
+# Design A Responsive Ar/Vr Module Tracker
+
+This repository contains an auto-generated TypeScript file for:
+
+- design a responsive AR/VR module tracker
+- **Language**: TypeScript
+
+## Description
+
+This file serves as a base implementation for the concept: *design a responsive AR/VR module tracker*.  
+It can be used for educational, prototyping, or inspiration purposes.
+
+## How to Use
+
+Clone the repo, open `56y1_design_a_respon.ts` and extend or run it according to your needs.
+
+---
+
+
